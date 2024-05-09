@@ -4,13 +4,13 @@
 <summary><strong> 🔧 Skills </strong></summary>  
 <br>
 <div>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,react,nodejs,expressjs,tailwind,mongodb,mysql,git,github,ubuntu,visualstudio,vscode,markdown">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,react,nodejs,expressjs,tailwind,mongodb,mysql,git,github,ubuntu,visualstudio,vscode,godot,markdown">
 </div>
 </details>
 
 ---
 
-<details open>
+<details>
 <summary><strong> 👾  Stats </strong></summary>  
 <br>
 
