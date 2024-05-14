@@ -19,5 +19,9 @@
       <img src="https://github-readme-stats.vercel.app/api?username=The-Phoenics&show_icons=true&theme=dark#gh-dark-mode-only" width="388">
 </div>
 
+<br>
 
+<div>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-Phoenics&theme=react-dark" width="800">
+</div>
 </details>
