@@ -1,19 +1,24 @@
 <!-- # Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
 
 <details open>
-<summary><strong> 🍪 Socials </strong></summary>  
-<br>
+<summary><strong> &nbsp 🍪 &nbsp Socials </strong></summary>  
 <div>
 <a href="https://github.com/The-Phoenics"><img src="https://img.shields.io/badge/GitHub%20-%231DA1F2.svg?&style=for-the-badge&logo=GitHub&logoColor=white&color=grey"></a>
 <a href="https://twitter.com/phoenics_x"><img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"></a>
-<a href="https://the-phoenics.itch.io"><img src="https://img.shields.io/badge/Itch.io-%231DA1F2.svg?&style=for-the-badge&logo=itch.io&logoColor=white&color=fa5c5c"></a>
+<a href="https://the-phoenics.itch.io"><img src="https://img.shields.io/badge/Itch.io-%231DA1F2.svg?&style=for-the-badge&logo=itch.io&logoColor=white&color=fa5c5c"></a> &nbsp <img width="60" height="50" src="https://github.com/The-Phoenics/The-Phoenics/blob/main/img/kitty-chase-pixel.gif" />
 </div>
 </details>
+
+<!--
+<a href="https://github.com/The-Phoenics"><img src="https://img.shields.io/badge/GitHub%20-%231DA1F2.svg?&style=for-the-badge&logo=GitHub&logoColor=white&color=grey"></a>
+<a href="https://twitter.com/phoenics_x"><img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<a href="https://the-phoenics.itch.io"><img src="https://img.shields.io/badge/Itch.io-%231DA1F2.svg?&style=for-the-badge&logo=itch.io&logoColor=white&color=fa5c5c"></a>
+-->
 
 ---
 
 <details open>
-<summary><strong> 🔧 Skills </strong></summary>  
+<summary><strong> &nbsp 🔧 &nbsp Skills </strong></summary>  
 <br>
 <div>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,react,nodejs,expressjs,tailwind,mongodb,mysql,git,github,ubuntu,visualstudio,vscode,godot,markdown">
@@ -23,7 +28,7 @@
 ---
 
 <details open>
-<summary><strong> 👾  Stats </strong></summary>  
+<summary><strong> &nbsp 👾 &nbsp Stats </strong></summary>  
 <br>
 
 <div>
