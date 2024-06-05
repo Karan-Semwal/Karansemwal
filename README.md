@@ -21,7 +21,7 @@
 <summary><strong> &nbsp 🔧 &nbsp Skills </strong></summary>  
 <br>
 <div>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,react,nodejs,expressjs,tailwind,mongodb,mysql,git,github,ubuntu,visualstudio,vscode,markdown">
+<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,html,css,react,nodejs,expressjs,tailwind,mongodb,mysql,git,linux,markdown">
 </div>
 </details>
 
