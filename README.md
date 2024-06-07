@@ -5,11 +5,12 @@
 <div>
 <a href="https://github.com/The-Phoenics"><img src="https://img.shields.io/badge/GitHub%20-%231DA1F2.svg?&style=for-the-badge&logo=GitHub&logoColor=white&color=grey"></a>
 <a href="https://twitter.com/phoenics_x"><img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<a href="https://discordapp.com/users/856245732294000660"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=110000" alt="thephoenics" ></a>
 <a href="https://the-phoenics.itch.io"><img src="https://img.shields.io/badge/Itch.io-%231DA1F2.svg?&style=for-the-badge&logo=itch.io&logoColor=white&color=fa5c5c"></a> &nbsp <img width="60" height="50" src="https://github.com/The-Phoenics/The-Phoenics/blob/main/img/kitty-chase-pixel.gif" />
 </div>
 </details>
 
-<!--
+<!--  856245732294000660
 <a href="https://github.com/The-Phoenics"><img src="https://img.shields.io/badge/GitHub%20-%231DA1F2.svg?&style=for-the-badge&logo=GitHub&logoColor=white&color=grey"></a>
 <a href="https://twitter.com/phoenics_x"><img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="https://the-phoenics.itch.io"><img src="https://img.shields.io/badge/Itch.io-%231DA1F2.svg?&style=for-the-badge&logo=itch.io&logoColor=white&color=fa5c5c"></a>
