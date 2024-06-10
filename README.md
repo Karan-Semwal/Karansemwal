@@ -10,19 +10,13 @@
 </div>
 </details>
 
-<!--  856245732294000660
-<a href="https://github.com/The-Phoenics"><img src="https://img.shields.io/badge/GitHub%20-%231DA1F2.svg?&style=for-the-badge&logo=GitHub&logoColor=white&color=grey"></a>
-<a href="https://twitter.com/phoenics_x"><img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"></a>
-<a href="https://the-phoenics.itch.io"><img src="https://img.shields.io/badge/Itch.io-%231DA1F2.svg?&style=for-the-badge&logo=itch.io&logoColor=white&color=fa5c5c"></a>
--->
-
 ---
 
 <details open>
 <summary><strong> &nbsp 🔧 &nbsp Skills </strong></summary>  
 <br>
 <div>
-<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,html,css,react,nodejs,expressjs,tailwind,mongodb,mysql,git,linux,markdown">
+<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,tailwind,react,expressjs,mongodb,mysql,git,linux">
 </div>
 </details>
 
