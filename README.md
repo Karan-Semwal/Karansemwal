@@ -10,8 +10,6 @@
 </div>
 </details>
 
----
-
 <details open>
 <summary><strong> &nbsp 🔧 &nbsp Skills </strong></summary>  
 <br>
@@ -19,8 +17,6 @@
 <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,tailwind,react,expressjs,mongodb,mysql,git,linux">
 </div>
 </details>
-
----
 
 <details>
 <summary><strong> &nbsp 👾 &nbsp Stats </strong></summary>  
