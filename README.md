@@ -10,6 +10,8 @@
 </div>
 </details>
 
+---
+
 <details open>
 <summary><strong> &nbsp 🔧 &nbsp Skills </strong></summary>  
 <br>
@@ -18,7 +20,9 @@
 </div>
 </details>
 
-<details>
+---
+
+<details open>
 <summary><strong> &nbsp 👾 &nbsp Stats </strong></summary>  
 <br>
 
