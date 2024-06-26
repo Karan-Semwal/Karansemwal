@@ -22,7 +22,7 @@
 
 ---
 
-<details open>
+<details>
 <summary><strong> &nbsp 👾 &nbsp Stats </strong></summary>  
 <br>
 
