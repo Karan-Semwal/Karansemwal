@@ -14,7 +14,7 @@
 -->
 
 <details open>
-<summary><strong> &nbsp 🔧 &nbsp Skills </strong></summary>  
+<summary><strong> &nbsp 🔧 &nbsp Tools & Tech Stack </strong></summary>  
 <br>
 <div>
 <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,html,css,tailwind,react,expressjs,firebase,mongodb,mysql,git,github,linux">
@@ -23,7 +23,7 @@
 
 
 <details>
-<summary><strong> &nbsp 👾 &nbsp Stats </strong></summary>  
+<summary><strong> &nbsp 👾 &nbsp Github Stats </strong></summary>  
 <br>
 
 <div>
