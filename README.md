@@ -17,7 +17,7 @@
 <summary><strong> &nbsp 🔧 &nbsp Tools & Tech Stack </strong></summary>  
 <br>
 <div>
-<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,html,css,tailwind,react,expressjs,firebase,mongodb,mysql,git,github,linux">
+<img src="https://skillicons.dev/icons?i=cpp,rust,java,js,ts,html,css,tailwind,react,expressjs,mongodb,postgres,prisma,git,linux">
 </div>
 </details>
 
@@ -33,11 +33,13 @@
 
 <br>
 
+<!--
 <div>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-Phoenics&theme=react-dark" width="800">
 </div>
 
 <br>
+-->
 
 <!--
 <details >
