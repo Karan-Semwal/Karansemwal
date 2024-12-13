@@ -17,7 +17,7 @@
 <summary><strong> &nbsp 🔧 &nbsp Tools & Tech Stack </strong></summary>  
 <br>
 <div>
-<img src="https://skillicons.dev/icons?i=cpp,rust,java,js,ts,html,css,tailwind,react,expressjs,mongodb,postgres,prisma,git,linux">
+<img src="https://skillicons.dev/icons?i=cpp,ts,tailwind,react,expressjs,mongodb,postgres,prisma,git,linux">
 </div>
 </details>
 
