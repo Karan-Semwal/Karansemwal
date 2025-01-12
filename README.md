@@ -33,13 +33,13 @@
 
 <br>
 
-<!--
+
 <div>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-Phoenics&theme=react-dark" width="800">
 </div>
 
 <br>
--->
+
 
 <!--
 <details >
